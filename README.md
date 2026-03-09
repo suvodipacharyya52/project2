@@ -1,3 +1,3 @@
 # New Project
 This project was created from local system.
-Created by Suvodip Acharyyaclear
+Created by Suvodip Acharyya.
